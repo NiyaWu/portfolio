@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="323px" height="200px" viewBox="0 0 323 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Status-n-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-2" transform="translate(-501.000000, -103.000000)">
+            <g id="Status-n-2" transform="translate(502.000000, 104.000000)">
+                <g id="Widget-Copy-2">
+                    <rect id="Mask" stroke="#D9D9D9" fill="#FFFFFF" x="-0.5" y="-0.5" width="322" height="199" rx="4"></rect>
+                    <text id="Title" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#5E70D9">
+                        <tspan x="12" y="25">Title</tspan>
+                    </text>
+                    <path d="M0,40.5 L321,40.5" id="Line" stroke="#D9D9D9" stroke-linecap="square" fill-rule="nonzero"></path>
+                </g>
+                <g id="loading" transform="translate(130.000000, 86.000000)" fill="#939393" fill-rule="nonzero">
+                    <circle id="Oval" cx="8" cy="30.5" r="8"></circle>
+                    <circle id="Oval" transform="translate(15.029437, 13.529437) rotate(45.000000) translate(-15.029437, -13.529437) " cx="15.0294373" cy="13.5294373" r="7.172"></circle>
+                    <circle id="Oval" transform="translate(32.000000, 6.500000) rotate(90.000000) translate(-32.000000, -6.500000) " cx="32" cy="6.5" r="6.2655"></circle>
+                    <circle id="Oval" transform="translate(48.970563, 13.529437) rotate(135.000000) translate(-48.970563, -13.529437) " cx="48.9705627" cy="13.5294373" r="5.375"></circle>
+                    <circle id="Oval" transform="translate(56.000000, 30.500000) rotate(180.000000) translate(-56.000000, -30.500000) " cx="56" cy="30.5" r="5.0315"></circle>
+                    <circle id="Oval" transform="translate(48.970563, 47.470563) rotate(-135.000000) translate(-48.970563, -47.470563) " cx="48.9705627" cy="47.4705627" r="4.0315"></circle>
+                    <circle id="Oval" transform="translate(32.000000, 54.500000) rotate(-90.000000) translate(-32.000000, -54.500000) " cx="32" cy="54.5" r="3.219"></circle>
+                    <circle id="Oval" transform="translate(15.029437, 47.470563) rotate(-45.000000) translate(-15.029437, -47.470563) " cx="15.0294373" cy="47.4705627" r="2.6875"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
